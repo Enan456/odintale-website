@@ -1,2 +1,18 @@
 languageCode = "en-us"
-title = "My New Netlify Victor Hugo Site"
+title = "ODINTALE"
+theme = "hugo-html5up-alpha"
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "<Your Name>'s blog"
+  subtitle    = "Blog | Tutorial"
+  pageNotFoundTitle = "404 - Page not found"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Blog"
+  url = "/"
+  weight = 200
