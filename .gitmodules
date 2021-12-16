@@ -1,0 +1,6 @@
+[submodule "hugo-html5up-alpha"]
+	path = hugo-html5up-alpha
+	url = https://github.com/dewittn/hugo-html5up-alpha/
+[submodule "themes/hugo-html5up-alpha"]
+	path = themes/hugo-html5up-alpha
+	url = https://github.com/dewittn/hugo-html5up-alpha/
